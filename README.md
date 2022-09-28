@@ -70,6 +70,6 @@ kaggle의 Fake/Authentic User Instagram 데이터셋을 사용했습니다.\
 
 
 ### 결과 발표
-[인스타그램 계정 분류 keynote](https://github.com/nahyun-song/pf_ML/blob/main/pf_ML.key)
+[인스타그램 계정 분류 발표 자료](https://github.com/nahyun-song/pf_ML/blob/main/pf_ML.pdf)
 
 [인스타그램 계정 분류 결과 발표 영상](https://youtu.be/6LpRb0iTSwM)
